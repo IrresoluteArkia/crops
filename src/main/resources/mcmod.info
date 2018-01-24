@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arcrops",
+  "name": "Arcrops",
+  "description": "Adds a few crops to make life easier :)",
+  "version": "1.2.1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IrresoluteArkia"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

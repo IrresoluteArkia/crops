@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "arcrops:blocks/limarion_crop_stage_1"
+    }
+}
